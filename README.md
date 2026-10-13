@@ -1,2 +1,2 @@
-# mi-primer-repositorio
+# Mi primer README
 Ejercicio curso Github
